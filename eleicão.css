@@ -1,0 +1,17 @@
+h1.titulo{
+	font-size: 50px;
+}
+p.porcentagem{
+	font-size: 50px;
+	
+
+}
+div.lang{
+	float:left;
+}
+div.abc{
+	float: right;
+}
+div.progress{
+	clear: both;
+}
